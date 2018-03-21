@@ -5,7 +5,7 @@ Feel free to look around!
 
 ### Kim Seongmin (cragy0516)
 
-**blog**	 : sabzilgob.tistory.com
+**blog**	 : http://sabzilgob.tistory.com
 
 **email**	 : cragy0516@gmail.com
 
