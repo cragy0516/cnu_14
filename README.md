@@ -21,7 +21,7 @@ Feel free to look around!
 
 **email**	 : lsj9556@gmail.com
 
-######Lee seung jae(201602044)
+###Lee seung jae(201602044)
 *lean*
 [mypage]:(https://myruler.co.kr)
 
