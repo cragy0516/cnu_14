@@ -9,18 +9,7 @@ Feel free to look around!
 
 **email**	 : cragy0516@gmail.com
 
-### Son Yeji (sonyeji)
-
-**blog**	 : http://smlsml.tistory.com
-
-**email**	 : ths3385@naver.com
-
-### LEE SU Jeong (tnwjd4623)
-
-**blog**	 : http://chamggae.tistory.com
-
-**email**	 : lsj9556@gmail.com
-
 ## References
 
 Github Markdown	: https://gist.github.com/ihoneymon/652be052a0727ad59601
+Github PR : https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
