@@ -9,6 +9,12 @@ Feel free to look around!
 
 **email**	 : cragy0516@gmail.com
 
+### Son Yeji (sonyeji)
+
+**blog**	 : http://smlsml.tistory.com
+
+**email**	 : ths3385@naver.com
+
 ## References
 
 Github Markdown	: https://gist.github.com/ihoneymon/652be052a0727ad59601
