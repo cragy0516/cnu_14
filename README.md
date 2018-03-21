@@ -9,6 +9,11 @@ Feel free to look around!
 
 **email**	 : cragy0516@gmail.com
 
+## Lee Su Jeong (tnwjd4623)
+**blog**	 : http://chamggae.tistory.com
+
+**email**	 : lsj9556@gmail.com
+
 ## References
 
 Github Markdown	: https://gist.github.com/ihoneymon/652be052a0727ad59601
