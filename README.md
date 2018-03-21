@@ -3,12 +3,10 @@
 
 Feel free to look around!
 
-~~~
-__Kim Seongmin (cragy0516)__
+###Kim Seongmin (cragy0516)
 
-blog	 : sabzilgob.tistory.com
-email	 : cragy0516@gmail.com
-~~~
+**blog**	 : sabzilgob.tistory.com
+**email**	 : cragy0516@gmail.com
 
 ## References
 
