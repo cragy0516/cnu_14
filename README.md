@@ -15,7 +15,7 @@ Feel free to look around!
 
 **email**	 : ths3385@naver.com
 
-## Lee Su Jeong (tnwjd4623)
+### Lee Su Jeong (tnwjd4623)
 **blog**	 : http://chamggae.tistory.com
 
 **email**	 : lsj9556@gmail.com
