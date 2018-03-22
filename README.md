@@ -13,6 +13,12 @@ Feel free to look around!
 *lean*
 [mypage]:(https://myruler.co.kr)
 
+
+### Lee SU Jeong(tnwjd4623)
+
+**blong**	 : http://chamggae.tistory.com
+
+**email**	 : lsj9556@gmail.com
 ## References
 
 Github Markdown	: https://gist.github.com/ihoneymon/652be052a0727ad59601
