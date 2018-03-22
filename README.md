@@ -9,6 +9,10 @@ Feel free to look around!
 
 **email**	 : cragy0516@gmail.com
 
+### Lee seung jae(201602044)
+*lean*
+[mypage]:(https://myruler.co.kr)
+
 ## References
 
 Github Markdown	: https://gist.github.com/ihoneymon/652be052a0727ad59601
