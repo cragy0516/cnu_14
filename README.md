@@ -19,6 +19,13 @@ Feel free to look around!
 **blong**	 : http://chamggae.tistory.com
 
 **email**	 : lsj9556@gmail.com
+
+### Son Ye ji(201602015)
+
+**blog**	 : http://smlsml.tistory.com
+
+**email**	 : ths3385@naver.com
+
 ## References
 
 Github Markdown	: https://gist.github.com/ihoneymon/652be052a0727ad59601
