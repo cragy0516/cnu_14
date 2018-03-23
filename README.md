@@ -20,7 +20,7 @@ Feel free to look around!
 
 **email**	 : lsj9556@gmail.com
 
-### Son Ye ji(201602015)
+### Son Ye ji(sonyeji)
 
 **blog**	 : http://smlsml.tistory.com
 
@@ -29,4 +29,5 @@ Feel free to look around!
 ## References
 
 Github Markdown	: https://gist.github.com/ihoneymon/652be052a0727ad59601
+
 Github PR : https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
